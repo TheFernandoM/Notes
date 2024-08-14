@@ -22,7 +22,7 @@ _TODO#0 | Ends._
 
 ORIGINAL ENTRY starts
 
-[![pudding](https://github.com/TheFernandoM/Notes/images/periodicals/07_aug/pudding.jpg)
+[![pudding](https://raw.githubusercontent.com/TheFernandoM/Notes/main/images/periodicals/2024/7_aug/pudding.jpg)](https://raw.githubusercontent.com/TheFernandoM/Notes/main/images/periodicals/2024/7_aug/pudding.jpg)
 
 I'm manually writing this entry on Notepad, saving it, and then I'll (try and) use git commands on a terminal to update it to GitHub. ("why?" - don't feel like explaining now)
 
