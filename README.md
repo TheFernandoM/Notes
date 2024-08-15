@@ -18,7 +18,16 @@ _TODO#0 | Ends._
 
 ### August
 
-#### 2024 / August / 13
+#### 2024 / August / 15
+
+"Today..."
+
+* I'm once again writing and _formatting_ this by hand unsing the great `Notepad.exe`. Cool!
+* [note to self] "codename Parnassium"  
+
+-\_out_
+
+#### 2024 / August / 14
 
 ORIGINAL ENTRY starts
 
